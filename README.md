@@ -34,5 +34,5 @@
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/ru/)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/) 
 
-**Соц. сети**
+**Соц. сети:**
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram)](https://t.me/tysbo_prog)  
