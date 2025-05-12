@@ -9,7 +9,7 @@
 [![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Mobx](https://img.shields.io/badge/Mobx-645abdg?style=for-the-badge&logo=mobxlogoColor=orange)](https://mobx.js.org/)
+[![Mobx](https://img.shields.io/badge/Mobx-645abdg?style=for-the-badge&logo=mobx&logoColor=orange)](https://mobx.js.org/)
 [![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)](https://zustand-demo.pmnd.rs/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
